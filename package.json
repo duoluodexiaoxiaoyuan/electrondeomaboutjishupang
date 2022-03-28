@@ -1,0 +1,17 @@
+{
+  "name": "electrondeomaboutjishupang",
+  "version": "1.0.0",
+  "description": "electron的学习",
+  "main": "main.js",
+  "scripts": {
+    "start": "chcp 65001&&npx electron ."
+  },
+  "author": "xiaolaji",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.2.0"
+  },
+  "dependencies": {
+    "@electron/remote": "^2.0.8"
+  }
+}

@@ -1,0 +1,6 @@
+./node_modules/.bin/electron
+没有全局安装的可以按照下面的代码运行
+npx electron .
+
+window.open打开的就是子窗口
+browserwindow默认就是打开的是窗口
